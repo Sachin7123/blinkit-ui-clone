@@ -20,9 +20,6 @@ This project showcases a fully functional replica of the Blinkit app's user inte
 ## Technologies Used  
 - **Flutter**: Framework for building cross-platform apps.  
 - **Dart**: Programming language for app logic and UI development.  
-- **Packages**:  
-  - `flutter_svg` for scalable vector graphics.  
-  - `provider` for state management (if applicable).  
 
 ---
 
